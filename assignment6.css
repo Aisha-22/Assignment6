@@ -1,0 +1,11 @@
+#chart{
+    background-color: lightgray;
+}
+
+.bar{
+    background-color: green;
+}
+
+.exceed{
+    background-color: red;
+}
